@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MFisherBE
 - 👀 I’m interested in software engineering, electrical engineering, renewable energy, foreign languages, and different cultures.
-- 🌱 I’m currently learning German, Turkish, and the Microsoft Azure Cloud stack
+- 🌱 I’m currently learning MySQL, Azure, German and Turkish
 - 📫 How to reach me: michaelffisher8@gmail.com
 
 <!---
